@@ -6,6 +6,9 @@ service. and also we can generate the html report. This will provide **details M
 
 There are lots of cool testing frameworks for different programming languages. Unfortunately only a few of them can provide good representation of test execution output.
 The Qameta Software testing team is working on Allure - an open-source framework designed to create test execution reports that are clear to everyone in the team.
+
+NOTE:- Don't delete any allure-report so all the report history will be present. Suppose if we run 3 class in 3 different time & open Dashboard it will show all 3 reports.
+
 ## Documentation [http://allure.qatools.ru/](http://allure.qatools.ru/)
 
 ## Types of annotation provided by allure framework. 
